@@ -1,4 +1,3 @@
-Olá professor
 vou deixar abaixo alguns detalhes técnicos pra te ajudar a executar o algoritimo com nodejs caso não saiba como.
 
 - O algoritimo foi implementado utilizando javascript e deve ser executado com NodeJS (https://nodejs.org/en/).
