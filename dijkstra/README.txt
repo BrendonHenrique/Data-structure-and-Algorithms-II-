@@ -1,7 +1,6 @@
-- O algoritimo foi implementado utilizando javascript e deve ser executado com NodeJS (https://nodejs.org/en/).
-- O arquivo principal se chama dijkstra.js.
-- O arquivo staticGraph.js exporta um modulo que contém um array de vértices que será importado em dijkstra.js.
-- Implementei junto também um módulo extra só para gerar vértices de forma randomica, se chama grafoBuilder.js o módulo dele retorna 
-uma função que cria vértices recebendo como argumento a quantidade de vértices e retornando os vértices.
-- Após instalar o nodejs (caso não tenha já instalado), dentro da pasta use o comando $ node dijkstra.js.
-  
+- The algorithm was implemented using javascript and must be executed with NodeJS (https://nodejs.org/en/).
+- The main file is called dijkstra.js.
+- The staticGraph.js file exports a module that contains an array of variables that will be imported into dijkstra.js.
+- Also implements an extra module just to randomly generate variables, called grafoBuilder.js or the module that returns
+a function that creates vertices by taking the number of vertices as arguments and returning the vertices.
+- After installing nodejs (if not installed), inside the folder use the command $ node dijkstra.js.
