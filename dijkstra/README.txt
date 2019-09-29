@@ -1,5 +1,3 @@
-vou deixar abaixo alguns detalhes técnicos pra te ajudar a executar o algoritimo com nodejs caso não saiba como.
-
 - O algoritimo foi implementado utilizando javascript e deve ser executado com NodeJS (https://nodejs.org/en/).
 - O arquivo principal se chama dijkstra.js.
 - O arquivo staticGraph.js exporta um modulo que contém um array de vértices que será importado em dijkstra.js.
